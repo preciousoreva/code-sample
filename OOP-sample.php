@@ -6,6 +6,7 @@ It also has a method called displayCar that shows all the car's properties.
 A new instance of the car class is created using the constructor and then the method displayCar is called on it to display all the properties. -->
 
 class Car {
+    
     private $make;
     private $model;
     private $year;
