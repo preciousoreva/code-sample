@@ -1,3 +1,4 @@
+<?php 
 function binary_search($arr, $x) { 
     $left = 0; 
     $right = count($arr) - 1; 
